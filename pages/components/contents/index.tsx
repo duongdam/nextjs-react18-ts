@@ -7,7 +7,7 @@ function MyContents(props: ContentsProps) {
     return (
         <main className={styles.main}>
             <h1 className={styles.title}>
-                Welcome to <a href="#">This is my contents!</a>
+                <a href="#">This is my contents!</a>
             </h1>
         </main>
     );
